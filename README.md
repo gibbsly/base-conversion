@@ -3,6 +3,7 @@ A utility datapack that allows you to do base conversions with a configurable ba
 
 before you get started run the setup functions: 
 > /function base_conv:setup
+
 > /function rev_conv:setup
 
 ###  Decimal to base(x)
