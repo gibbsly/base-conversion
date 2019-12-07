@@ -2,9 +2,8 @@
 A utility datapack that allows you to do base conversions with a configurable base value
 
 before you get started run the setup functions: 
-> /function base_conv:setup
-
-> /function rev_conv:setup
+- /function base_conv:setup
+- /function rev_conv:setup
 
 ###  Decimal to base(x)
 to set the base value use: 
