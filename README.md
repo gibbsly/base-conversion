@@ -26,7 +26,7 @@ to set your input value use:
 > /data modify storage rev_conv:main in set value [<array of numbers>]
 
 to run the conversion run:
-> /function base_conv:call
+> /function rev_conv:call
 
 you will get your output in the scorboard value `out= rev_conv.num`
 > example: {in:[8, 0]}, base= 16; will output as 128
